@@ -1,4 +1,4 @@
-# EUKIS Architecture v0
+# trasaki Architecture v0
 
 ## Frontend
 
